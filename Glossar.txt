@@ -1,0 +1,40 @@
+Begriffsdefinitionen Programmier-Paradigmen
+
+Sofern Texte aus externen Quellen verwendet werden, bitte Quellenangabe (URL).
+
+
+record
+
+procedure
+
+closure
+
+unification
+
+search
+
+solver
+
+thread
+
+by-need sync
+
+single-assignment
+
+continuation
+
+name / unforgetable constant
+
+nondeterministic choice
+
+sync on partial termination
+
+instantaneous computation
+
+cell / state
+
+port / channel
+
+local cell
+
+log
