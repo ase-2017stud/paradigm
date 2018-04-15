@@ -3,7 +3,7 @@ Begriffsdefinitionen Programmier-Paradigmen
 Sofern Texte aus externen Quellen verwendet werden, bitte Quellenangabe (URL).
 
 
-record
+record - test
 
 procedure
 
