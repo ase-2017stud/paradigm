@@ -17,7 +17,7 @@ solver: Solver (engl., dt. Löser) ist eine Sammelbezeichnung für spezielle mathe
 
 thread: Einen Ausführungsstrang oder eine Ausführungsreihenfolge in der Abarbeitung eines Programms. Ein Thread ist Teil eines Prozesses. (https://de.wikipedia.org/wiki/Thread_(Informatik)) 
 
-by-need sync
+by-need sync: Dieses Programierparadigma fügt lazy-evaluation und concurrency dem funktionalen Paradigma hinzu und ist dabei weiter deklarativ. 
 
 single-assignment: Single Assignment, auf Deutsch (einmal) Zuweisung ist das Zuweisen eines Wertes zu einer Variable, wenn diese erstellt wird. Danach sind keine Änderungen mehr erlaubt.(https://en.wikipedia.org/wiki/Assignment_(computer_science)#Single_assignment)
 
