@@ -1,13 +1,1 @@
-Begriffsdefinitionen Programmier-Paradigmen
-
-Sofern Texte aus externen Quellen verwendet werden, bitte Quellenangabe (URL).
-
-
-record - test
-
-procedure
-
-closure
-
-unification
-HAllo----..
+prodedure
