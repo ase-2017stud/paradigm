@@ -25,7 +25,7 @@ continuation
 
 name / unforgetable constant
 
-nondeterministic choice
+nondeterministic choice: Ein Algorithmus liefert bei gleichem Ausgangszustand (inkl. Parameter) unterschiedliche Ergebnisse, da bei Verzweigungen aus mehreren gleichwertigen Pfaden gewählt werden kann.
 
 sync on partial termination
 
