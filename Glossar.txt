@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Begriffsdefinitionen Programmier-Paradigmen
 
 Sofern Texte aus externen Quellen verwendet werden, bitte Quellenangabe (URL).
@@ -38,3 +39,6 @@ port / channel
 local cell
 
 log
+=======
+prodedure
+>>>>>>> 0588f3dcd1d1b34f964fd66b096accb64c575802
