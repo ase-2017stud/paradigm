@@ -13,7 +13,7 @@ unification
 
 search
 
-solver
+solver: Solver (engl., dt. Löser) ist eine Sammelbezeichnung für spezielle mathematische Computerprogramme, die mathematische Probleme numerisch lösen können. (https://de.wikipedia.org/wiki/Solver)
 
 thread: Einen Ausführungsstrang oder eine Ausführungsreihenfolge in der Abarbeitung eines Programms. Ein Thread ist Teil eines Prozesses. (https://de.wikipedia.org/wiki/Thread_(Informatik)) 
 
@@ -31,7 +31,7 @@ sync on partial termination
 
 instantaneous computation
 
-cell / state
+cell / state: First-order functional programming + cell (state) >> Imperative programming [and more] (https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf p.13)
 
 port / channel
 
