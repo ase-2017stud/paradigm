@@ -37,5 +37,7 @@ port / channel
 
 local cell
 
-log
+log: blablabla 
+
+
 
