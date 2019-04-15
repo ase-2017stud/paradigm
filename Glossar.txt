@@ -32,7 +32,8 @@ sync on partial termination
 instantaneous computation
 
 cell / state: First-order functional programming + cell (state) >> Imperative programming, Sequential object-oriented programming, Stateful functional programming
-port / channel
+
+thread: In der Informatik bezeichnet Thread (englisch thread, ‚Faden‘, ‚Strang‘) – auch Aktivitätsträger oder leichtgewichtiger Prozess genannt – einen Ausführungsstrang oder eine Ausführungsreihenfolge in der Abarbeitung eines Programms. Ein Thread ist Teil eines Prozesses.
 
 local cell
 
