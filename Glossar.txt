@@ -27,14 +27,18 @@ name / unforgetable constant
 
 nondeterministic choice: Ein Algorithmus liefert bei gleichem Ausgangszustand (inkl. Parameter) unterschiedliche Ergebnisse, da bei Verzweigungen aus mehreren gleichwertigen Pfaden gewählt werden kann.
 
-sync on partial termination
+sync on partial termination: Sync-Daten werden nicht zur richtigen Zeit empfangen
 
 instantaneous computation
 
+<<<<<<< HEAD
 
 cell / state: First-order functional programming + cell (state) >> Imperative programming [and more] (https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf p.13)
+=======
+cell / state: First-order functional programming + cell (state) >> Imperative programming, Sequential object-oriented programming, Stateful functional programming
+>>>>>>> 3d2268e3e9d9e74533c609ac9d898aee108b340d
 
-port / channel
+thread: In der Informatik bezeichnet Thread (englisch thread, ‚Faden‘, ‚Strang‘) – auch Aktivitätsträger oder leichtgewichtiger Prozess genannt – einen Ausführungsstrang oder eine Ausführungsreihenfolge in der Abarbeitung eines Programms. Ein Thread ist Teil eines Prozesses.
 
 local cell
 
