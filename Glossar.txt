@@ -2,6 +2,7 @@ Begriffsdefinitionen Programmier-Paradigmen
 
 Sofern Texte aus externen Quellen verwendet werden, bitte Quellenangabe (URL).
 
+name / unforgeable constant: Ein Name ist eine nicht fälschbare Konstante (engl. unforgeable constant), die verwendet wird, um sichere Datenabstraktionen zu implementieren. (https://books.google.de/books?id=_bmyEnUnfTsC&pg=PA714&lpg=PA714&dq=unforgeable+constant+a+name&source=bl&ots=nCoxrCaIyh&sig=ACfU3U0i_-kRiGsTPCPGPQKFMNJGeuvBYA&hl=de&sa=X&ved=2ahUKEwiWoaCk6NLhAhWtPOwKHfUXBksQ6AEwAHoECAMQAQ#v=onepage&q=unforgeable%20constant%20a%20name&f=false) 
 
 record - Es handelt sich um eine Datenstruktur: eine Gruppe von Referenzen auf Datenelementen mit indiziertem Zugriff auf
 jedes Element.
