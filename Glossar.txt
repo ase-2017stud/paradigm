@@ -31,8 +31,7 @@ sync on partial termination
 
 instantaneous computation
 
-cell / state: First-order functional programming + cell (state) >> Imperative programming [and more] (https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf p.13)
-
+cell / state: First-order functional programming + cell (state) >> Imperative programming, Sequential object-oriented programming, Stateful functional programming
 port / channel
 
 local cell
