@@ -31,6 +31,8 @@ sync on partial termination: Sync-Daten werden nicht zur richtigen Zeit empfange
 
 instantaneous computation
 
+thread: In der Informatik bezeichnet Thread (englisch thread, ‚Faden‘, ‚Strang‘) – auch Aktivitätsträger oder leichtgewichtiger Prozess genannt – einen Ausführungsstrang oder eine Ausführungsreihenfolge in der Abarbeitung eines Programms. Ein Thread ist Teil eines Prozesses.
+
 cell / state: First-order functional programming + cell (state) >> Imperative programming [and more] (https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf p.13)
 
 port / channel
