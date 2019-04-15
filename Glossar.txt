@@ -3,7 +3,8 @@ Begriffsdefinitionen Programmier-Paradigmen
 Sofern Texte aus externen Quellen verwendet werden, bitte Quellenangabe (URL).
 
 
-record - test
+record - Es handelt sich um eine Datenstruktur: eine Gruppe von Referenzen auf Datenelementen mit indiziertem Zugriff auf
+jedes Element.
 
 procedure: Im Allgemeinen versteht man darunter eine Variante zum Begriff „Unterprogramm“: Die Anweisungen einer Prozedur können über ihre Benennung aufgerufen und dadurch mehrfach verwendet werden. (https://de.wikipedia.org/wiki/Prozedur_(Programmierung))
 
